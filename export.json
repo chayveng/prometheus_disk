@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "data": {
+        "resultType": "vector",
+        "result": [
+            {
+                "metric": {
+                    "__name__": "windows_logical_disk_free_bytes",
+                    "instance": "10.4.0.186:9182",
+                    "job": "windowsexporter",
+                    "volume": "D:"
+                },
+                "value": [
+                    1708432520,
+                    "695598055424"
+                ]
+            }
+        ]
+    },
+    "stats": {
+        "seriesFetched": "1"
+    }
+}
